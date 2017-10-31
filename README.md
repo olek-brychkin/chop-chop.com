@@ -1,2 +1,2 @@
 # chop-chop.com
-work
+https://olek-brychkin.github.io/chop-chop.com/
